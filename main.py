@@ -30,7 +30,7 @@ async def start(client, message):
       reply_markup=InlineKeyboardMarkup(
          [
             [
-               InlineKeyboardButton("❕ ┇ كيفيه استخدام البوت", url=f"tg://openmessage?user_id=5481459822&message_id=775054"),
+               InlineKeyboardButton("❕ ┇ كيفيه استخدام البوت", url=f"https://t.me/botatiiii"),
                InlineKeyboardButton("", url=f"https://t.me/botatiiii"),
             ]
          ]
